@@ -1,1 +1,1 @@
-![](display/Weather.gif)
+![](Weather.gif)
