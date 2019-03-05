@@ -1,1 +1,1 @@
-![](display/getChongQing.gif)
+![](display/weather.gif)
