@@ -1,1 +1,1 @@
-![](findergame.gif)
+![](FinderGame.gif)
